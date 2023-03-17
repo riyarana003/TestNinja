@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
-<coverage line-rate="0.214002879769618" branch-rate="0.114251592356688" lines-covered="1189" lines-valid="5556" branches-covered="287" branches-valid="2512" complexity="2387" version="0" timestamp="1679053672">
+<coverage line-rate="0.215788527243302" branch-rate="0.114649681528662" lines-covered="1200" lines-valid="5561" branches-covered="288" branches-valid="2512" complexity="2388" version="0" timestamp="1679071858">
   <sources />
   <packages>
     <package name="Moq" line-rate="0.13037415756449" branch-rate="0.0712890625" complexity="1937">
@@ -4677,7 +4677,7 @@
         </class>
       </classes>
     </package>
-    <package name="TestNinja" line-rate="0.444444444444444" branch-rate="0.72" complexity="63">
+    <package name="TestNinja" line-rate="0.474747474747475" branch-rate="0.74" complexity="63">
       <classes>
         <class name="TestNinja.Fundamentals.CustomerController" filename="C:\Users\riya.rana\source\repos\TestNinja\TestNinja\Fundamentals\CustomerController.cs" line-rate="1" branch-rate="1" complexity="NaN">
           <methods>
@@ -5155,21 +5155,21 @@
             <line number="29" hits="0" branch="false" />
           </lines>
         </class>
-        <class name="TestNinja.Mocking.Customer" filename="C:\Users\riya.rana\source\repos\TestNinja\TestNinja\Mocking\Product.cs" line-rate="0" branch-rate="1" complexity="NaN">
+        <class name="TestNinja.Mocking.Customer" filename="C:\Users\riya.rana\source\repos\TestNinja\TestNinja\Mocking\Product.cs" line-rate="1" branch-rate="1" complexity="NaN">
           <methods>
-            <method name="IsGold" signature="()" line-rate="0" branch-rate="1" complexity="NaN">
+            <method name="IsGold" signature="()" line-rate="1" branch-rate="1" complexity="NaN">
               <lines>
-                <line number="18" hits="0" branch="false" />
+                <line number="18" hits="2" branch="false" />
               </lines>
             </method>
-            <method name="IsGold" signature="(System.Boolean)" line-rate="0" branch-rate="1" complexity="NaN">
+            <method name="IsGold" signature="(System.Boolean)" line-rate="1" branch-rate="1" complexity="NaN">
               <lines>
-                <line number="18" hits="0" branch="false" />
+                <line number="18" hits="2" branch="false" />
               </lines>
             </method>
           </methods>
           <lines>
-            <line number="18" hits="0" branch="false" />
+            <line number="18" hits="2" branch="false" />
           </lines>
         </class>
         <class name="TestNinja.Mocking.EmployeeContext" filename="C:\Users\riya.rana\source\repos\TestNinja\TestNinja\Mocking\EmployeeController.cs" line-rate="0" branch-rate="1" complexity="1">
@@ -5323,35 +5323,35 @@
             <line number="19" hits="1" branch="false" />
           </lines>
         </class>
-        <class name="TestNinja.Mocking.Product" filename="C:\Users\riya.rana\source\repos\TestNinja\TestNinja\Mocking\Product.cs" line-rate="0" branch-rate="0" complexity="NaN">
+        <class name="TestNinja.Mocking.Product" filename="C:\Users\riya.rana\source\repos\TestNinja\TestNinja\Mocking\Product.cs" line-rate="0.833333333333333" branch-rate="0.5" complexity="NaN">
           <methods>
-            <method name="ListPrice" signature="()" line-rate="0" branch-rate="1" complexity="NaN">
+            <method name="ListPrice" signature="()" line-rate="1" branch-rate="1" complexity="NaN">
               <lines>
-                <line number="5" hits="0" branch="false" />
+                <line number="5" hits="2" branch="false" />
               </lines>
             </method>
-            <method name="ListPrice" signature="(System.Single)" line-rate="0" branch-rate="1" complexity="NaN">
+            <method name="ListPrice" signature="(System.Single)" line-rate="1" branch-rate="1" complexity="NaN">
               <lines>
-                <line number="5" hits="0" branch="false" />
+                <line number="5" hits="2" branch="false" />
               </lines>
             </method>
-            <method name="GetPrice" signature="(TestNinja.Mocking.Customer)" line-rate="0" branch-rate="0" complexity="NaN">
+            <method name="GetPrice" signature="(TestNinja.Mocking.Customer)" line-rate="0.8" branch-rate="0.5" complexity="NaN">
               <lines>
-                <line number="8" hits="0" branch="false" />
-                <line number="9" hits="0" branch="true" condition-coverage="0% (0/2)" />
-                <line number="10" hits="0" branch="false" />
+                <line number="8" hits="1" branch="false" />
+                <line number="9" hits="1" branch="true" condition-coverage="50% (1/2)" />
+                <line number="10" hits="1" branch="false" />
                 <line number="12" hits="0" branch="false" />
-                <line number="13" hits="0" branch="false" />
+                <line number="13" hits="1" branch="false" />
               </lines>
             </method>
           </methods>
           <lines>
-            <line number="5" hits="0" branch="false" />
-            <line number="8" hits="0" branch="false" />
-            <line number="9" hits="0" branch="true" condition-coverage="0% (0/2)" />
-            <line number="10" hits="0" branch="false" />
+            <line number="5" hits="2" branch="false" />
+            <line number="8" hits="1" branch="false" />
+            <line number="9" hits="1" branch="true" condition-coverage="50% (1/2)" />
+            <line number="10" hits="1" branch="false" />
             <line number="12" hits="0" branch="false" />
-            <line number="13" hits="0" branch="false" />
+            <line number="13" hits="1" branch="false" />
           </lines>
         </class>
         <class name="TestNinja.Mocking.Program" filename="C:\Users\riya.rana\source\repos\TestNinja\TestNinja\Mocking\Program.cs" line-rate="0" branch-rate="1" complexity="1">
@@ -5510,7 +5510,7 @@
         </class>
       </classes>
     </package>
-    <package name="TestNinja.UnitTests" line-rate="1" branch-rate="1" complexity="31">
+    <package name="TestNinja.UnitTests" line-rate="1" branch-rate="1" complexity="32">
       <classes>
         <class name="TestNinja.UnitTests.CustomerControllerTests" filename="C:\Users\riya.rana\source\repos\TestNinja\TestNinja.UnitTests\Fundamentals\CustomerControllerTests.cs" line-rate="1" branch-rate="1" complexity="2">
           <methods>
@@ -5782,6 +5782,26 @@
             <line number="19" hits="1" branch="false" />
             <line number="20" hits="1" branch="false" />
             <line number="21" hits="1" branch="false" />
+          </lines>
+        </class>
+        <class name="TestNinja.UnitTests.Mocking.ProductTests" filename="C:\Users\riya.rana\source\repos\TestNinja\TestNinja.UnitTests\Mocking\ProductTests.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="GetPrice_GoldCustomer_Apply30PercentDiscount" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="11" hits="1" branch="false" />
+                <line number="13" hits="1" branch="false" />
+                <line number="16" hits="1" branch="false" />
+                <line number="19" hits="1" branch="false" />
+                <line number="20" hits="1" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="11" hits="1" branch="false" />
+            <line number="13" hits="1" branch="false" />
+            <line number="16" hits="1" branch="false" />
+            <line number="19" hits="1" branch="false" />
+            <line number="20" hits="1" branch="false" />
           </lines>
         </class>
         <class name="TestNinja.UnitTests.Mocking.VideoServiceTests" filename="C:\Users\riya.rana\source\repos\TestNinja\TestNinja.UnitTests\Mocking\VideoServiceTests.cs" line-rate="1" branch-rate="1" complexity="2">
