@@ -10,9 +10,6 @@ namespace TestNinja.Mocking
     {
         //public IFileReader FileReader { get; set; } //DependencyInjection via properties
         private IFileReader _fileReader;
-        
-        
-        
         public VideoService(IFileReader fileReader = null) 
         {
             _fileReader = fileReader ?? new FileReader(); //constructorInjection

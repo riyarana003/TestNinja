@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
-<coverage line-rate="0.185799243106866" branch-rate="0.0971337579617834" lines-covered="1031" lines-valid="5549" branches-covered="244" branches-valid="2512" complexity="2386" version="0" timestamp="1678891669">
+<coverage line-rate="0.214002879769618" branch-rate="0.114251592356688" lines-covered="1189" lines-valid="5556" branches-covered="287" branches-valid="2512" complexity="2387" version="0" timestamp="1679053672">
   <sources />
   <packages>
-    <package name="Moq" line-rate="0.0971415291656983" branch-rate="0.05029296875" complexity="1937">
+    <package name="Moq" line-rate="0.13037415756449" branch-rate="0.0712890625" complexity="1937">
       <classes>
         <class name="Moq.ActionObserver" filename="C:\projects\moq4\src\Moq\ActionObserver.cs" line-rate="1" branch-rate="1" complexity="NaN">
           <methods>
@@ -4677,9 +4677,9 @@
         </class>
       </classes>
     </package>
-    <package name="TestNinja" line-rate="0.404040404040404" branch-rate="0.72" complexity="63">
+    <package name="TestNinja" line-rate="0.444444444444444" branch-rate="0.72" complexity="63">
       <classes>
-        <class name="TestNinja.Fundamentals.CustomerController" filename="C:\Users\riya.rana\source\repos\source-code-starter+(1)\source-code-starter\TestNinja\TestNinja\Fundamentals\CustomerController.cs" line-rate="1" branch-rate="1" complexity="NaN">
+        <class name="TestNinja.Fundamentals.CustomerController" filename="C:\Users\riya.rana\source\repos\TestNinja\TestNinja\Fundamentals\CustomerController.cs" line-rate="1" branch-rate="1" complexity="NaN">
           <methods>
             <method name="GetCustomer" signature="(System.Int32)" line-rate="1" branch-rate="1" complexity="NaN">
               <lines>
@@ -4699,7 +4699,7 @@
             <line number="11" hits="2" branch="false" />
           </lines>
         </class>
-        <class name="TestNinja.Fundamentals.DateHelper" filename="C:\Users\riya.rana\source\repos\source-code-starter+(1)\source-code-starter\TestNinja\TestNinja\Fundamentals\DateHelper.cs" line-rate="0" branch-rate="0" complexity="NaN">
+        <class name="TestNinja.Fundamentals.DateHelper" filename="C:\Users\riya.rana\source\repos\TestNinja\TestNinja\Fundamentals\DateHelper.cs" line-rate="0" branch-rate="0" complexity="NaN">
           <methods>
             <method name="FirstOfNextMonth" signature="(System.DateTime)" line-rate="0" branch-rate="0" complexity="NaN">
               <lines>
@@ -4715,7 +4715,7 @@
             <line number="10" hits="0" branch="false" />
           </lines>
         </class>
-        <class name="TestNinja.Fundamentals.DemeritPointsCalculator" filename="C:\Users\riya.rana\source\repos\source-code-starter+(1)\source-code-starter\TestNinja\TestNinja\Fundamentals\DemeritPointsCalculator.cs" line-rate="1" branch-rate="1" complexity="NaN">
+        <class name="TestNinja.Fundamentals.DemeritPointsCalculator" filename="C:\Users\riya.rana\source\repos\TestNinja\TestNinja\Fundamentals\DemeritPointsCalculator.cs" line-rate="1" branch-rate="1" complexity="NaN">
           <methods>
             <method name="CalculateDemeritPoints" signature="(System.Int32)" line-rate="1" branch-rate="1" complexity="NaN">
               <lines>
@@ -4739,7 +4739,7 @@
             <line number="21" hits="6" branch="false" />
           </lines>
         </class>
-        <class name="TestNinja.Fundamentals.ErrorLogger" filename="C:\Users\riya.rana\source\repos\source-code-starter+(1)\source-code-starter\TestNinja\TestNinja\Fundamentals\ErrorLogger.cs" line-rate="1" branch-rate="1" complexity="2">
+        <class name="TestNinja.Fundamentals.ErrorLogger" filename="C:\Users\riya.rana\source\repos\TestNinja\TestNinja\Fundamentals\ErrorLogger.cs" line-rate="1" branch-rate="1" complexity="2">
           <methods>
             <method name="LastError" signature="()" line-rate="1" branch-rate="1" complexity="NaN">
               <lines>
@@ -4784,7 +4784,7 @@
             <line number="34" hits="2" branch="false" />
           </lines>
         </class>
-        <class name="TestNinja.Fundamentals.FizzBuzz" filename="C:\Users\riya.rana\source\repos\source-code-starter+(1)\source-code-starter\TestNinja\TestNinja\Fundamentals\FizzBuzz.cs" line-rate="1" branch-rate="1" complexity="NaN">
+        <class name="TestNinja.Fundamentals.FizzBuzz" filename="C:\Users\riya.rana\source\repos\TestNinja\TestNinja\Fundamentals\FizzBuzz.cs" line-rate="1" branch-rate="1" complexity="NaN">
           <methods>
             <method name="GetOutput" signature="(System.Int32)" line-rate="1" branch-rate="1" complexity="NaN">
               <lines>
@@ -4812,7 +4812,7 @@
             <line number="18" hits="4" branch="false" />
           </lines>
         </class>
-        <class name="TestNinja.Fundamentals.HtmlFormatter" filename="C:\Users\riya.rana\source\repos\source-code-starter+(1)\source-code-starter\TestNinja\TestNinja\Fundamentals\HtmlFormatter.cs" line-rate="1" branch-rate="1" complexity="NaN">
+        <class name="TestNinja.Fundamentals.HtmlFormatter" filename="C:\Users\riya.rana\source\repos\TestNinja\TestNinja\Fundamentals\HtmlFormatter.cs" line-rate="1" branch-rate="1" complexity="NaN">
           <methods>
             <method name="FormatAsBold" signature="(System.String)" line-rate="1" branch-rate="1" complexity="NaN">
               <lines>
@@ -4828,7 +4828,7 @@
             <line number="8" hits="1" branch="false" />
           </lines>
         </class>
-        <class name="TestNinja.Fundamentals.Math" filename="C:\Users\riya.rana\source\repos\source-code-starter+(1)\source-code-starter\TestNinja\TestNinja\Fundamentals\Math.cs" line-rate="1" branch-rate="1" complexity="5">
+        <class name="TestNinja.Fundamentals.Math" filename="C:\Users\riya.rana\source\repos\TestNinja\TestNinja\Fundamentals\Math.cs" line-rate="1" branch-rate="1" complexity="5">
           <methods>
             <method name="Add" signature="(System.Int32,System.Int32)" line-rate="1" branch-rate="1" complexity="NaN">
               <lines>
@@ -4868,7 +4868,7 @@
             <line number="22" hits="1" branch="false" />
           </lines>
         </class>
-        <class name="TestNinja.Fundamentals.PhoneNumber" filename="C:\Users\riya.rana\source\repos\source-code-starter+(1)\source-code-starter\TestNinja\TestNinja\Fundamentals\PhoneNumber.cs" line-rate="0" branch-rate="0" complexity="1">
+        <class name="TestNinja.Fundamentals.PhoneNumber" filename="C:\Users\riya.rana\source\repos\TestNinja\TestNinja\Fundamentals\PhoneNumber.cs" line-rate="0" branch-rate="0" complexity="1">
           <methods>
             <method name="Area" signature="()" line-rate="0" branch-rate="1" complexity="NaN">
               <lines>
@@ -4942,7 +4942,7 @@
             <line number="36" hits="0" branch="false" />
           </lines>
         </class>
-        <class name="TestNinja.Fundamentals.Reservation" filename="C:\Users\riya.rana\source\repos\source-code-starter+(1)\source-code-starter\TestNinja\TestNinja\Fundamentals\Reservation.cs" line-rate="1" branch-rate="1" complexity="NaN">
+        <class name="TestNinja.Fundamentals.Reservation" filename="C:\Users\riya.rana\source\repos\TestNinja\TestNinja\Fundamentals\Reservation.cs" line-rate="1" branch-rate="1" complexity="NaN">
           <methods>
             <method name="MadeBy" signature="()" line-rate="1" branch-rate="1" complexity="NaN">
               <lines>
@@ -4969,7 +4969,7 @@
             <line number="12" hits="3" branch="false" />
           </lines>
         </class>
-        <class name="TestNinja.Fundamentals.Stack`1" filename="C:\Users\riya.rana\source\repos\source-code-starter+(1)\source-code-starter\TestNinja\TestNinja\Fundamentals\Stack.cs" line-rate="1" branch-rate="1" complexity="5">
+        <class name="TestNinja.Fundamentals.Stack`1" filename="C:\Users\riya.rana\source\repos\TestNinja\TestNinja\Fundamentals\Stack.cs" line-rate="1" branch-rate="1" complexity="5">
           <methods>
             <method name="Count" signature="()" line-rate="1" branch-rate="1" complexity="NaN">
               <lines>
@@ -5033,7 +5033,7 @@
             <line number="38" hits="2" branch="false" />
           </lines>
         </class>
-        <class name="TestNinja.Fundamentals.User" filename="C:\Users\riya.rana\source\repos\source-code-starter+(1)\source-code-starter\TestNinja\TestNinja\Fundamentals\Reservation.cs" line-rate="1" branch-rate="1" complexity="NaN">
+        <class name="TestNinja.Fundamentals.User" filename="C:\Users\riya.rana\source\repos\TestNinja\TestNinja\Fundamentals\Reservation.cs" line-rate="1" branch-rate="1" complexity="NaN">
           <methods>
             <method name="IsAdmin" signature="()" line-rate="1" branch-rate="1" complexity="NaN">
               <lines>
@@ -5050,7 +5050,7 @@
             <line number="18" hits="4" branch="false" />
           </lines>
         </class>
-        <class name="TestNinja.Mocking.Booking" filename="C:\Users\riya.rana\source\repos\source-code-starter+(1)\source-code-starter\TestNinja\TestNinja\Mocking\BookingHelper.cs" line-rate="0" branch-rate="1" complexity="NaN">
+        <class name="TestNinja.Mocking.Booking" filename="C:\Users\riya.rana\source\repos\TestNinja\TestNinja\Mocking\BookingHelper.cs" line-rate="0" branch-rate="1" complexity="NaN">
           <methods>
             <method name="Status" signature="()" line-rate="0" branch-rate="1" complexity="NaN">
               <lines>
@@ -5111,7 +5111,7 @@
             <line number="46" hits="0" branch="false" />
           </lines>
         </class>
-        <class name="TestNinja.Mocking.BookingHelper" filename="C:\Users\riya.rana\source\repos\source-code-starter+(1)\source-code-starter\TestNinja\TestNinja\Mocking\BookingHelper.cs" line-rate="0" branch-rate="0" complexity="NaN">
+        <class name="TestNinja.Mocking.BookingHelper" filename="C:\Users\riya.rana\source\repos\TestNinja\TestNinja\Mocking\BookingHelper.cs" line-rate="0" branch-rate="0" complexity="NaN">
           <methods>
             <method name="OverlappingBookingsExist" signature="(TestNinja.Mocking.Booking)" line-rate="0" branch-rate="0" complexity="NaN">
               <lines>
@@ -5155,7 +5155,7 @@
             <line number="29" hits="0" branch="false" />
           </lines>
         </class>
-        <class name="TestNinja.Mocking.Customer" filename="C:\Users\riya.rana\source\repos\source-code-starter+(1)\source-code-starter\TestNinja\TestNinja\Mocking\Product.cs" line-rate="0" branch-rate="1" complexity="NaN">
+        <class name="TestNinja.Mocking.Customer" filename="C:\Users\riya.rana\source\repos\TestNinja\TestNinja\Mocking\Product.cs" line-rate="0" branch-rate="1" complexity="NaN">
           <methods>
             <method name="IsGold" signature="()" line-rate="0" branch-rate="1" complexity="NaN">
               <lines>
@@ -5172,7 +5172,7 @@
             <line number="18" hits="0" branch="false" />
           </lines>
         </class>
-        <class name="TestNinja.Mocking.EmployeeContext" filename="C:\Users\riya.rana\source\repos\source-code-starter+(1)\source-code-starter\TestNinja\TestNinja\Mocking\EmployeeController.cs" line-rate="0" branch-rate="1" complexity="1">
+        <class name="TestNinja.Mocking.EmployeeContext" filename="C:\Users\riya.rana\source\repos\TestNinja\TestNinja\Mocking\EmployeeController.cs" line-rate="0" branch-rate="1" complexity="1">
           <methods>
             <method name="Employees" signature="()" line-rate="0" branch-rate="1" complexity="NaN">
               <lines>
@@ -5197,7 +5197,7 @@
             <line number="38" hits="0" branch="false" />
           </lines>
         </class>
-        <class name="TestNinja.Mocking.EmployeeController" filename="C:\Users\riya.rana\source\repos\source-code-starter+(1)\source-code-starter\TestNinja\TestNinja\Mocking\EmployeeController.cs" line-rate="0" branch-rate="1" complexity="1">
+        <class name="TestNinja.Mocking.EmployeeController" filename="C:\Users\riya.rana\source\repos\TestNinja\TestNinja\Mocking\EmployeeController.cs" line-rate="0" branch-rate="1" complexity="1">
           <methods>
             <method name=".ctor" signature="()" line-rate="0" branch-rate="1" complexity="1">
               <lines>
@@ -5241,23 +5241,23 @@
             <line number="25" hits="0" branch="false" />
           </lines>
         </class>
-        <class name="TestNinja.Mocking.FileReader" filename="C:\Users\riya.rana\source\repos\source-code-starter+(1)\source-code-starter\TestNinja\TestNinja\Mocking\FileReader.cs" line-rate="0" branch-rate="1" complexity="NaN">
+        <class name="TestNinja.Mocking.FileReader" filename="C:\Users\riya.rana\source\repos\TestNinja\TestNinja\Mocking\FileReader.cs" line-rate="0" branch-rate="1" complexity="NaN">
           <methods>
             <method name="Read" signature="(System.String)" line-rate="0" branch-rate="1" complexity="NaN">
               <lines>
+                <line number="12" hits="0" branch="false" />
                 <line number="13" hits="0" branch="false" />
                 <line number="14" hits="0" branch="false" />
-                <line number="16" hits="0" branch="false" />
               </lines>
             </method>
           </methods>
           <lines>
+            <line number="12" hits="0" branch="false" />
             <line number="13" hits="0" branch="false" />
             <line number="14" hits="0" branch="false" />
-            <line number="16" hits="0" branch="false" />
           </lines>
         </class>
-        <class name="TestNinja.Mocking.InstallerHelper" filename="C:\Users\riya.rana\source\repos\source-code-starter+(1)\source-code-starter\TestNinja\TestNinja\Mocking\InstallerHelper.cs" line-rate="0" branch-rate="1" complexity="NaN">
+        <class name="TestNinja.Mocking.InstallerHelper" filename="C:\Users\riya.rana\source\repos\TestNinja\TestNinja\Mocking\InstallerHelper.cs" line-rate="0" branch-rate="1" complexity="NaN">
           <methods>
             <method name="DownloadInstaller" signature="(System.String,System.String)" line-rate="0" branch-rate="1" complexity="NaN">
               <lines>
@@ -5293,37 +5293,37 @@
             <line number="26" hits="0" branch="false" />
           </lines>
         </class>
-        <class name="TestNinja.Mocking.OrderService" filename="C:\Users\riya.rana\source\repos\source-code-starter+(1)\source-code-starter\TestNinja\TestNinja\Mocking\OrderService.cs" line-rate="0" branch-rate="1" complexity="NaN">
+        <class name="TestNinja.Mocking.OrderService" filename="C:\Users\riya.rana\source\repos\TestNinja\TestNinja\Mocking\OrderService.cs" line-rate="1" branch-rate="1" complexity="NaN">
           <methods>
-            <method name=".ctor" signature="(TestNinja.Mocking.IStorage)" line-rate="0" branch-rate="1" complexity="NaN">
+            <method name=".ctor" signature="(TestNinja.Mocking.IStorage)" line-rate="1" branch-rate="1" complexity="NaN">
               <lines>
-                <line number="7" hits="0" branch="false" />
-                <line number="8" hits="0" branch="false" />
-                <line number="9" hits="0" branch="false" />
-                <line number="10" hits="0" branch="false" />
+                <line number="7" hits="1" branch="false" />
+                <line number="8" hits="1" branch="false" />
+                <line number="9" hits="1" branch="false" />
+                <line number="10" hits="1" branch="false" />
               </lines>
             </method>
-            <method name="PlaceOrder" signature="(TestNinja.Mocking.Order)" line-rate="0" branch-rate="1" complexity="NaN">
+            <method name="PlaceOrder" signature="(TestNinja.Mocking.Order)" line-rate="1" branch-rate="1" complexity="NaN">
               <lines>
-                <line number="13" hits="0" branch="false" />
-                <line number="14" hits="0" branch="false" />
-                <line number="18" hits="0" branch="false" />
-                <line number="19" hits="0" branch="false" />
+                <line number="13" hits="1" branch="false" />
+                <line number="14" hits="1" branch="false" />
+                <line number="18" hits="1" branch="false" />
+                <line number="19" hits="1" branch="false" />
               </lines>
             </method>
           </methods>
           <lines>
-            <line number="7" hits="0" branch="false" />
-            <line number="8" hits="0" branch="false" />
-            <line number="9" hits="0" branch="false" />
-            <line number="10" hits="0" branch="false" />
-            <line number="13" hits="0" branch="false" />
-            <line number="14" hits="0" branch="false" />
-            <line number="18" hits="0" branch="false" />
-            <line number="19" hits="0" branch="false" />
+            <line number="7" hits="1" branch="false" />
+            <line number="8" hits="1" branch="false" />
+            <line number="9" hits="1" branch="false" />
+            <line number="10" hits="1" branch="false" />
+            <line number="13" hits="1" branch="false" />
+            <line number="14" hits="1" branch="false" />
+            <line number="18" hits="1" branch="false" />
+            <line number="19" hits="1" branch="false" />
           </lines>
         </class>
-        <class name="TestNinja.Mocking.Product" filename="C:\Users\riya.rana\source\repos\source-code-starter+(1)\source-code-starter\TestNinja\TestNinja\Mocking\Product.cs" line-rate="0" branch-rate="0" complexity="NaN">
+        <class name="TestNinja.Mocking.Product" filename="C:\Users\riya.rana\source\repos\TestNinja\TestNinja\Mocking\Product.cs" line-rate="0" branch-rate="0" complexity="NaN">
           <methods>
             <method name="ListPrice" signature="()" line-rate="0" branch-rate="1" complexity="NaN">
               <lines>
@@ -5354,7 +5354,7 @@
             <line number="13" hits="0" branch="false" />
           </lines>
         </class>
-        <class name="TestNinja.Mocking.Program" filename="C:\Users\riya.rana\source\repos\source-code-starter+(1)\source-code-starter\TestNinja\TestNinja\Mocking\Program.cs" line-rate="0" branch-rate="1" complexity="1">
+        <class name="TestNinja.Mocking.Program" filename="C:\Users\riya.rana\source\repos\TestNinja\TestNinja\Mocking\Program.cs" line-rate="0" branch-rate="1" complexity="1">
           <methods>
             <method name="Main" signature="()" line-rate="0" branch-rate="1" complexity="1">
               <lines>
@@ -5372,7 +5372,7 @@
             <line number="9" hits="0" branch="false" />
           </lines>
         </class>
-        <class name="TestNinja.Mocking.UnitOfWork" filename="C:\Users\riya.rana\source\repos\source-code-starter+(1)\source-code-starter\TestNinja\TestNinja\Mocking\BookingHelper.cs" line-rate="0" branch-rate="1" complexity="1">
+        <class name="TestNinja.Mocking.UnitOfWork" filename="C:\Users\riya.rana\source\repos\TestNinja\TestNinja\Mocking\BookingHelper.cs" line-rate="0" branch-rate="1" complexity="1">
           <methods>
             <method name="Query" signature="()" line-rate="0" branch-rate="1" complexity="1">
               <lines>
@@ -5388,7 +5388,7 @@
             <line number="37" hits="0" branch="false" />
           </lines>
         </class>
-        <class name="TestNinja.Mocking.Video" filename="C:\Users\riya.rana\source\repos\source-code-starter+(1)\source-code-starter\TestNinja\TestNinja\Mocking\VideoService.cs" line-rate="0" branch-rate="1" complexity="NaN">
+        <class name="TestNinja.Mocking.Video" filename="C:\Users\riya.rana\source\repos\TestNinja\TestNinja\Mocking\VideoService.cs" line-rate="0" branch-rate="1" complexity="NaN">
           <methods>
             <method name="Id" signature="()" line-rate="0" branch-rate="1" complexity="NaN">
               <lines>
@@ -5427,7 +5427,7 @@
             <line number="51" hits="0" branch="false" />
           </lines>
         </class>
-        <class name="TestNinja.Mocking.VideoContext" filename="C:\Users\riya.rana\source\repos\source-code-starter+(1)\source-code-starter\TestNinja\TestNinja\Mocking\VideoService.cs" line-rate="0" branch-rate="1" complexity="NaN">
+        <class name="TestNinja.Mocking.VideoContext" filename="C:\Users\riya.rana\source\repos\TestNinja\TestNinja\Mocking\VideoService.cs" line-rate="0" branch-rate="1" complexity="NaN">
           <methods>
             <method name="Videos" signature="()" line-rate="0" branch-rate="1" complexity="NaN">
               <lines>
@@ -5444,7 +5444,7 @@
             <line number="56" hits="0" branch="false" />
           </lines>
         </class>
-        <class name="TestNinja.Mocking.VideoService" filename="C:\Users\riya.rana\source\repos\source-code-starter+(1)\source-code-starter\TestNinja\TestNinja\Mocking\VideoService.cs" line-rate="0.434782608695652" branch-rate="0.5" complexity="5">
+        <class name="TestNinja.Mocking.VideoService" filename="C:\Users\riya.rana\source\repos\TestNinja\TestNinja\Mocking\VideoService.cs" line-rate="0.434782608695652" branch-rate="0.5" complexity="5">
           <methods>
             <method name=".ctor" signature="(TestNinja.Mocking.IFileReader)" line-rate="1" branch-rate="0.5" complexity="NaN">
               <lines>
@@ -5510,9 +5510,9 @@
         </class>
       </classes>
     </package>
-    <package name="TestNinja.UnitTests" line-rate="1" branch-rate="1" complexity="30">
+    <package name="TestNinja.UnitTests" line-rate="1" branch-rate="1" complexity="31">
       <classes>
-        <class name="TestNinja.UnitTests.CustomerControllerTests" filename="C:\Users\riya.rana\source\repos\source-code-starter+(1)\source-code-starter\TestNinja\TestNinja.UnitTests\Fundamentals\CustomerControllerTests.cs" line-rate="1" branch-rate="1" complexity="2">
+        <class name="TestNinja.UnitTests.CustomerControllerTests" filename="C:\Users\riya.rana\source\repos\TestNinja\TestNinja.UnitTests\Fundamentals\CustomerControllerTests.cs" line-rate="1" branch-rate="1" complexity="2">
           <methods>
             <method name="GetCustomer_IdIsZero_ReturnNotFound" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -5546,7 +5546,7 @@
             <line number="29" hits="1" branch="false" />
           </lines>
         </class>
-        <class name="TestNinja.UnitTests.DemeritPointsCalculatorTests" filename="C:\Users\riya.rana\source\repos\source-code-starter+(1)\source-code-starter\TestNinja\TestNinja.UnitTests\Fundamentals\DemeritPointsCalculatorTests.cs" line-rate="1" branch-rate="1" complexity="NaN">
+        <class name="TestNinja.UnitTests.DemeritPointsCalculatorTests" filename="C:\Users\riya.rana\source\repos\TestNinja\TestNinja.UnitTests\Fundamentals\DemeritPointsCalculatorTests.cs" line-rate="1" branch-rate="1" complexity="NaN">
           <methods>
             <method name="CalculateDemeritPoints_SpeedIsNegativeOrGreaterThan300_ThrowArgumentOutOfRangeException" signature="(System.Int32)" line-rate="1" branch-rate="1" complexity="NaN">
               <lines>
@@ -5580,7 +5580,7 @@
             <line number="41" hits="6" branch="false" />
           </lines>
         </class>
-        <class name="TestNinja.UnitTests.ErrorLoggerTests" filename="C:\Users\riya.rana\source\repos\source-code-starter+(1)\source-code-starter\TestNinja\TestNinja.UnitTests\Fundamentals\ErrorLoggerTests.cs" line-rate="1" branch-rate="1" complexity="2">
+        <class name="TestNinja.UnitTests.ErrorLoggerTests" filename="C:\Users\riya.rana\source\repos\TestNinja\TestNinja.UnitTests\Fundamentals\ErrorLoggerTests.cs" line-rate="1" branch-rate="1" complexity="2">
           <methods>
             <method name="Log_WhenCalled_ShouldSetTheLastErrorProperty" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -5630,7 +5630,7 @@
             <line number="50" hits="1" branch="false" />
           </lines>
         </class>
-        <class name="TestNinja.UnitTests.FizzBuzzTests" filename="C:\Users\riya.rana\source\repos\source-code-starter+(1)\source-code-starter\TestNinja\TestNinja.UnitTests\Fundamentals\FizzBuzzTests.cs" line-rate="1" branch-rate="1" complexity="4">
+        <class name="TestNinja.UnitTests.FizzBuzzTests" filename="C:\Users\riya.rana\source\repos\TestNinja\TestNinja.UnitTests\Fundamentals\FizzBuzzTests.cs" line-rate="1" branch-rate="1" complexity="4">
           <methods>
             <method name="GetOutput_InputIsDivisibleBy3And5_ReturnFizzBuzz" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -5684,7 +5684,7 @@
             <line number="49" hits="1" branch="false" />
           </lines>
         </class>
-        <class name="TestNinja.UnitTests.HtmlFormatterTests" filename="C:\Users\riya.rana\source\repos\source-code-starter+(1)\source-code-starter\TestNinja\TestNinja.UnitTests\Fundamentals\HtmlFormatterTests.cs" line-rate="1" branch-rate="1" complexity="1">
+        <class name="TestNinja.UnitTests.HtmlFormatterTests" filename="C:\Users\riya.rana\source\repos\TestNinja\TestNinja.UnitTests\Fundamentals\HtmlFormatterTests.cs" line-rate="1" branch-rate="1" complexity="1">
           <methods>
             <method name="FormatAsBold_WhenCalled_ShouldEnclosedTheStringWithStrongElement" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -5708,7 +5708,7 @@
             <line number="25" hits="1" branch="false" />
           </lines>
         </class>
-        <class name="TestNinja.UnitTests.MathTests" filename="C:\Users\riya.rana\source\repos\source-code-starter+(1)\source-code-starter\TestNinja\TestNinja.UnitTests\Fundamentals\MathTests.cs" line-rate="1" branch-rate="1" complexity="3">
+        <class name="TestNinja.UnitTests.MathTests" filename="C:\Users\riya.rana\source\repos\TestNinja\TestNinja.UnitTests\Fundamentals\MathTests.cs" line-rate="1" branch-rate="1" complexity="3">
           <methods>
             <method name="SetUp" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -5760,7 +5760,31 @@
             <line number="71" hits="1" branch="false" />
           </lines>
         </class>
-        <class name="TestNinja.UnitTests.Mocking.VideoServiceTests" filename="C:\Users\riya.rana\source\repos\source-code-starter+(1)\source-code-starter\TestNinja\TestNinja.UnitTests\Mocking\VideoServiceTests.cs" line-rate="1" branch-rate="1" complexity="2">
+        <class name="TestNinja.UnitTests.Mocking.OrderServiceTests" filename="C:\Users\riya.rana\source\repos\TestNinja\TestNinja.UnitTests\Mocking\OrderServiceTests.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="PlaceOrder_WhenCalled_StoreTheOrder" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="12" hits="1" branch="false" />
+                <line number="14" hits="1" branch="false" />
+                <line number="15" hits="1" branch="false" />
+                <line number="18" hits="1" branch="false" />
+                <line number="19" hits="1" branch="false" />
+                <line number="20" hits="1" branch="false" />
+                <line number="21" hits="1" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="12" hits="1" branch="false" />
+            <line number="14" hits="1" branch="false" />
+            <line number="15" hits="1" branch="false" />
+            <line number="18" hits="1" branch="false" />
+            <line number="19" hits="1" branch="false" />
+            <line number="20" hits="1" branch="false" />
+            <line number="21" hits="1" branch="false" />
+          </lines>
+        </class>
+        <class name="TestNinja.UnitTests.Mocking.VideoServiceTests" filename="C:\Users\riya.rana\source\repos\TestNinja\TestNinja.UnitTests\Mocking\VideoServiceTests.cs" line-rate="1" branch-rate="1" complexity="2">
           <methods>
             <method name="SetUp" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -5772,11 +5796,11 @@
             </method>
             <method name="ReadVideoTitle_EmptyFile_ReturnError" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
-                <line number="22" hits="1" branch="false" />
-                <line number="24" hits="1" branch="false" />
-                <line number="26" hits="1" branch="false" />
-                <line number="28" hits="1" branch="false" />
+                <line number="23" hits="1" branch="false" />
+                <line number="25" hits="1" branch="false" />
+                <line number="27" hits="1" branch="false" />
                 <line number="29" hits="1" branch="false" />
+                <line number="30" hits="1" branch="false" />
               </lines>
             </method>
           </methods>
@@ -5785,14 +5809,14 @@
             <line number="16" hits="1" branch="false" />
             <line number="17" hits="1" branch="false" />
             <line number="18" hits="1" branch="false" />
-            <line number="22" hits="1" branch="false" />
-            <line number="24" hits="1" branch="false" />
-            <line number="26" hits="1" branch="false" />
-            <line number="28" hits="1" branch="false" />
+            <line number="23" hits="1" branch="false" />
+            <line number="25" hits="1" branch="false" />
+            <line number="27" hits="1" branch="false" />
             <line number="29" hits="1" branch="false" />
+            <line number="30" hits="1" branch="false" />
           </lines>
         </class>
-        <class name="TestNinja.UnitTests.ReservationTests" filename="C:\Users\riya.rana\source\repos\source-code-starter+(1)\source-code-starter\TestNinja\TestNinja.UnitTests\Fundamentals\ReservationTests.cs" line-rate="1" branch-rate="1" complexity="3">
+        <class name="TestNinja.UnitTests.ReservationTests" filename="C:\Users\riya.rana\source\repos\TestNinja\TestNinja.UnitTests\Fundamentals\ReservationTests.cs" line-rate="1" branch-rate="1" complexity="3">
           <methods>
             <method name="CanBeCancelledBy_UserIsAdmin_ReturnsTrue" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -5842,7 +5866,7 @@
             <line number="41" hits="1" branch="false" />
           </lines>
         </class>
-        <class name="TestNinja.UnitTests.StackTests" filename="C:\Users\riya.rana\source\repos\source-code-starter+(1)\source-code-starter\TestNinja\TestNinja.UnitTests\Fundamentals\StackTests.cs" line-rate="1" branch-rate="1" complexity="9">
+        <class name="TestNinja.UnitTests.StackTests" filename="C:\Users\riya.rana\source\repos\TestNinja\TestNinja.UnitTests\Fundamentals\StackTests.cs" line-rate="1" branch-rate="1" complexity="9">
           <methods>
             <method name="Push_WhenObjectIsNull_ThrowsArgumentNullException" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>

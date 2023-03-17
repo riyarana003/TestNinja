@@ -6,13 +6,11 @@ namespace TestNinja.Mocking
     {
         string Read(string pathOfFile);
     }
-
     public class FileReader : IFileReader
     {
         public string Read(string pathOfFile)
         {
             return File.ReadAllText(pathOfFile);
-
         }
     }
 }

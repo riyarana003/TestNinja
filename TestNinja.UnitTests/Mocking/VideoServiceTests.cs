@@ -18,7 +18,7 @@ namespace TestNinja.UnitTests.Mocking
         }
 
         
-        [Test]
+        [Test] 
         public void ReadVideoTitle_EmptyFile_ReturnError()
         {
             //service.FileReader = new FakeFileReader(); //for DI via property
@@ -28,8 +28,5 @@ namespace TestNinja.UnitTests.Mocking
               
             Assert.That(result, Does.Contain("error").IgnoreCase);
         }
-
-        //[Test]
-        //public void 
     }
 }
